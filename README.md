@@ -358,7 +358,7 @@ assert not result.valid  # "News articles must include at least one source"
 | Product | What It Does |
 |---|---|
 | **[LogicShield](https://github.com/mattijsmoens/LogicShield)** | Deterministic validation firewall for LLM outputs |
-| **[SovereignShield](https://github.com/mattijsmoens/SovereignShield)** | 4-layer AI defense (input filter + action audit + ethical engine + LLM veto) |
+| **[SovereignShield](https://github.com/mattijsmoens/Sovereign-Shield)** | 4-layer AI defense (input filter + action audit + ethical engine + LLM veto) |
 | **[IntentShield](https://github.com/mattijsmoens/IntentShield)** | Lightweight action-gate for AI agents |
 
 ---
